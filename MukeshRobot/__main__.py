@@ -98,7 +98,7 @@ buttons = [
 
 roy = [
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/roy_editx"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/Boy_Girl_Dp"),
         InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -112,7 +112,7 @@ roy = [
 HELP_STRINGS = f"""
 ❍ *{BOT_NAME}  ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ*"""
 
-ABHI = [
+TOSU = [
 "https://graph.org/file/f76fd86d1936d45a63c64.jpg",
 "https://graph.org/file/69ba894371860cd22d92e.jpg",
 "https://graph.org/file/67fde88d8c3aa8327d363.jpg",
@@ -145,7 +145,7 @@ ABHI = [
 
 ]
 
-NYKAA = [
+DOREAMON = [
     "https://graph.org/file/9bba2b7ee9ba3806de65d.jpg",
     "https://graph.org/file/ef82f289043a4fa74f8ff.jpg",
     "https://graph.org/file/9c27c68958e06ae074c38.jpg",
