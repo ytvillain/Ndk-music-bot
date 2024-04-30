@@ -14,27 +14,27 @@ class Config(object):
    
     TOKEN = getenv("TOKEN", None)
   
-    OWNER_ID = getenv("OWNER_ID", "6195725562") 
+    OWNER_ID = getenv("OWNER_ID", "5730490876") 
 
-    OWNER_USERNAME = ("OWNER_USERNAME", "loco_x_Pilot")
+    OWNER_USERNAME = ("OWNER_USERNAME", "Greatperson_Xd")
     
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "the_friendz")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "Incricible")
    
-    START_IMG = getenv("START_IMG", "https://graph.org/file/eaa3a2602e43844a488a5.jpg")
+    START_IMG = getenv("START_IMG", "https://graph.org/file/6b7ba5df9b008e44203b8.jpg")
 
-    JOIN_LOGGER = getenv("JOIN_LOGGER", "-1002080453210")
+    JOIN_LOGGER = getenv("JOIN_LOGGER", "-1001961907996")
    
-    EVENT_LOGS = getenv("EVENT_LOGS",  "-1002080453210")
+    EVENT_LOGS = getenv("EVENT_LOGS",  "-1001961907996")
   
-    ERROR_LOGS = getenv("ERROR_LOGS", "-1001929735324")
+    ERROR_LOGS = getenv("ERROR_LOGS", "-1001961907996")
 
     MONGO_DB_URI= getenv("MONGO_DB_URI", None)
    
-    LOG_CHANNEL = getenv("LOG_CHANNEL", "-1001852000392")
+    LOG_CHANNEL = getenv("LOG_CHANNEL", "-1001961907996")
    
-    BOT_USERNAME = getenv("BOT_USERNAME" , "avishaBot")
+    BOT_USERNAME = getenv("BOT_USERNAME" , "Doreamon_ro_bot")
    
-    DATABASE_URL = getenv("DATABASE_URL", "postgres://bnastfeg:SSeKbnIRV5dkO_2ewW10Y0EOuvRVgo1f@kesavan.db.elephantsql.com/bnastfeg")
+    DATABASE_URL = getenv("DATABASE_URL", "postgres://jvktgwnb:WbxYrXTbIhjtva-rFyoxz83HHSco9I4I@flora.db.elephantsql.com/jvktgwnb")
 
     CASH_API_KEY = getenv("CASH_API_KEY", "V48U2FLLKRHSVD4X")
     
@@ -50,7 +50,7 @@ class Config(object):
     
     OPENWEATHERMAP_ID = getenv("OPENWEATHERMAP_ID", "887da2c60d9f13fe78b0f9d0c5cbaade")
 
-    BAN_STICKER = getenv("BAN_STICKER", "CAACAgEAAxkBAAIrTWYljyX_lqcubkAzg0jy45CRvxAFAAKvAgACrLHoRU50VVvh3xWwNAQ")
+    BAN_STICKER = getenv("BAN_STICKER", "CAACAgUAAx0CdPBXHAACR0JmMFNFz1IKdi1G0zEUVVxKjyEJBQAC3wsAAo5XqFUhagM3X7NqhzQE")
 
     HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
