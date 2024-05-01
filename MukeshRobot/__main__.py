@@ -448,7 +448,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         InlineKeyboardButton(
                             text="ʜᴇʟᴘ ᴍᴇɴᴜ", callback_data="Main_help"
                         ),
-                        InlineKeyboardButton(text="ɴʏᴋᴀᴀ ", url="https://t.me/nykaa_update"),
+                        InlineKeyboardButton(text="Dᴏʀᴇᴀᴍᴏɴ ", url="https://t.me/The_Incricible"),
                     ],
                     [
                         InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data="mukesh_back"),
@@ -467,7 +467,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/roy_editx"
+                            text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/The_Incricible"
                         ),
                     ],
                     [
@@ -1080,7 +1080,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 6922271843:
+        if OWNER_ID != 5730490876:
             update.effective_message.reply_text(
                 f"๏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [ɢɪᴛʜᴜʙ](https://github.com/noob-mukesh/nothing?)"
                 f"\n\n๏ ʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴛʜᴇ ᴩᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ : [ʜᴇʀᴇ]",
@@ -1132,7 +1132,7 @@ def main():
                     [
                         InlineKeyboardButton(
                             text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
-                            url="https://t.me/avishaxbot?startgroup=true"
+                            url="https://t.me/Doreamon_ro_bot?startgroup=true"
                             )
                        ]
                 ]
@@ -1145,7 +1145,7 @@ def main():
                 caption=f"""
 ✦ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ✦
      ━━━━━━━━ 🝮✿🝮 ━━━━━━━━
-**❅ ᴍᴀᴅᴇ ʙʏ ➛ [ʀᴏʏ-ᴇᴅɪᴛx](https://t.me/roy_editx)**
+**❅ ᴍᴀᴅᴇ ʙʏ ➛ [Gʀᴇᴀᴛ-ᴘᴇʀsᴏɴ](https://t.me/Greatperson_Xd)**
 **❅ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➛** `{y()}`
 **❅ ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ ➛** `{telever}`
 **❅ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➛** `{tlhver}`
