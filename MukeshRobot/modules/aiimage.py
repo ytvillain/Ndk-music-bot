@@ -41,7 +41,7 @@ async def imagine_(b, message: Message):
     caption = f"""
 ✦ sᴜᴄᴇssғᴜʟʟʏ ɢᴇɴᴇʀᴀᴛᴇᴅ ✦
 
-❍ **ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ➛** [๛ᴀ ᴠ ɪ s ʜ ᴀ ༗](https://t.me/Avishaxbot)
+❍ **ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ➛** [๛ᴅ ᴏ ʀ ᴇ ᴀ ᴍ ᴏ ɴ ༗](https://t.me/Doreamon_ro_bot)
 ❍ **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➛** {message.from_user.mention}
 """
     await m.delete()
@@ -57,5 +57,5 @@ async def imagine_(b, message: Message):
 __mod_name__ = "ᴀɪ-ɪᴍᴀɢᴇ"
 __help__ = """
  ❍ /imagine ➛ ɢᴇɴᴇʀᴀᴛᴇ ᴀɪ ɪᴍᴀɢᴇ ғʀᴏᴍ ᴛᴇxᴛ
- ❍ /mahadev ➛ ɢᴇɴᴇʀᴀᴛᴇ Mᴀʜᴀᴅᴇᴠ ɪᴍᴀɢᴇ
+ ❍ /doreamon ➛ ɢᴇɴᴇʀᴀᴛᴇ ᴅᴏʀᴇᴀᴍᴏɴ ɪᴍᴀɢᴇ
  """
