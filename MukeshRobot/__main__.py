@@ -98,7 +98,7 @@ buttons = [
 
 roy = [
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/roy_editx"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/The_Incricible"),
         InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -179,7 +179,7 @@ NYKAA = [
 ]
 
 
-DONATE_STRING = f"""❍ ʜᴇʏ ʙᴀʙʏ, ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ. ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ @roy_editx ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ @the_friendz ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+DONATE_STRING = f"""❍ ʜᴇʏ ʙᴀʙʏ, ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ. ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ @greatperson_xd ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ @Incricible ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -306,7 +306,7 @@ def start(update: Update, context: CallbackContext):
             parse_mode=ParseMode.HTML,
         )
 
-
+n
 def error_handler(update, context):
     """๏ ʟᴏɢ ᴛʜᴇ ᴇʀʀᴏʀ ᴀɴᴅ sᴇɴᴅ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇssᴀɢᴇ ᴛᴏ ɴᴏᴛɪғʏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ."""
     # Log the error before we do anything else, so we can see it even if something breaks.
@@ -448,7 +448,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         InlineKeyboardButton(
                             text="ʜᴇʟᴘ ᴍᴇɴᴜ", callback_data="Main_help"
                         ),
-                        InlineKeyboardButton(text="ɴʏᴋᴀᴀ ", url="https://t.me/nykaa_update"),
+                        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/nykaa_update"),
                     ],
                     [
                         InlineKeyboardButton(text="ʜᴏᴍᴇ", callback_data="mukesh_back"),
@@ -467,7 +467,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/roy_editx"
+                            text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/The_Incricible"
                         ),
                     ],
                     [
@@ -1132,7 +1132,7 @@ def main():
                     [
                         InlineKeyboardButton(
                             text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
-                            url="https://t.me/avishaxbot?startgroup=true"
+                            url="https://t.me/doreamon_ro_bot?startgroup=true"
                             )
                        ]
                 ]
@@ -1145,7 +1145,7 @@ def main():
                 caption=f"""
 ✦ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ✦
      ━━━━━━━━ 🝮✿🝮 ━━━━━━━━
-**❅ ᴍᴀᴅᴇ ʙʏ ➛ [ʀᴏʏ-ᴇᴅɪᴛx](https://t.me/roy_editx)**
+**❅ ᴍᴀᴅᴇ ʙʏ ➛ [ɢʀᴇᴀᴛᴘᴇʀꜱᴏɴ](https://t.me/Greatperson_xd)**
 **❅ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➛** `{y()}`
 **❅ ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ ➛** `{telever}`
 **❅ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➛** `{tlhver}`
