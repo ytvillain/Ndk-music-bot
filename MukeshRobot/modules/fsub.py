@@ -155,8 +155,8 @@ __help__="""
 
    ✿ *ꜱᴇᴛᴜᴘ* ✿
    
-   ❍ [ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀꜱ ᴀᴅᴍɪɴ](https://t.me/avishaxbot?startgroup=new)
-   ❍ [ᴀᴅᴅ ᴍᴇ ɪɴ your ᴄʜᴀɴɴᴇʟ ᴀꜱ ᴀᴅᴍɪɴ](https://t.me/avishaxbot?startgroup=new)
+   ❍ [ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀꜱ ᴀᴅᴍɪɴ](https://t.me/doreamon_ro_bot?startgroup=new)
+   ❍ [ᴀᴅᴅ ᴍᴇ ɪɴ your ᴄʜᴀɴɴᴇʟ ᴀꜱ ᴀᴅᴍɪɴ](https://t.me/doreamon_ro_bot?startgroup=new)
  
    ✿ *ᴄᴏᴍᴍᴍᴀɴᴅꜱ* ✿
     
