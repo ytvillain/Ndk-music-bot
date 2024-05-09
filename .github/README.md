@@ -7,7 +7,7 @@
 
 </h2>
 <p align="center">
-  <img src="https://graph.org/file/5b9f179fecc7c124c8326.jpg">
+  <img src="https://graph.org/file/e117a79e333b66ed85e12.jpg">
 </p>
 
  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&width=420&lines=🐙+𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨+𝗡𝗢𝗪+🐙">
