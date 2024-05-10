@@ -80,14 +80,14 @@ from telethon import __version__ as s
 from MukeshRobot import OWNER_ID, dispatcher
 from MukeshRobot import pbot as client
 
-Mukesh = "https://graph.org/file/8810c96c61370a00175d6.jpg"
+FARMAN = "https://graph.org/file/431964af0d5d9f30c3ae0.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
 async def repo(client, message):
     await message.reply_photo(
         photo=Mukesh,
-        caption=f"""**❍ ʜᴇʏ {message.from_user.mention()}, ᴡᴇʟᴄᴏᴍᴇ ʙᴀʙʏ !\n\n❍ ɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**\n\n❍ **ɪғ ʏᴏᴜ ᴡᴀɴᴛ 𝗗𝗢𝗥𝗘𝚫𝗠𝗢𝗡 𝗥𝗢𝗕𝗢𝗧 ʙᴏᴛ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʀᴇᴘᴏ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.**
+        caption=f"""**❍ ʜᴇʏ {message.from_user.mention()}, ᴡᴇʟᴄᴏᴍᴇ ʙᴀʙʏ !\n\n❍ ɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**\n\n❍ **ɪғ ʏᴏᴜ ᴡᴀɴᴛ 𝐍𝐊𝐃 𝐑𝐎𝐁𝐎𝐓 ʙᴏᴛ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʀᴇᴘᴏ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -108,7 +108,7 @@ async def repo(client, message):
 @app.on_callback_query(filters.regex("gib_source"))
 async def gib_repo_callback(_, callback_query):
     await callback_query.edit_message_media(
-        media=InputMediaVideo("https://graph.org/file/0883f649a0ba4a8e09382.jpg", has_spoiler=True),
+        media=InputMediaVideo("https://graph.org/file/431964af0d5d9f30c3ae0.jpg", has_spoiler=True),
         reply_markup=InlineKeyboardMarkup(
             [
                 [close_button]
