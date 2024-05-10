@@ -108,7 +108,7 @@ async def repo(client, message):
 @app.on_callback_query(filters.regex("gib_source"))
 async def gib_repo_callback(_, callback_query):
     await callback_query.edit_message_media(
-        media=InputMediaVideo("https://graph.org/file/f8eb861828335021a1dd0.jpg", has_spoiler=True),
+        media=InputMediaVideo("https://telegra.ph/file/ec88f3b8943153cbdece8.mp4", has_spoiler=True),
         reply_markup=InlineKeyboardMarkup(
             [
                 [close_button]
